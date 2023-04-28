@@ -170,7 +170,7 @@ hr {
     content: "";
     width: 11px;
     height: 18px;
-    background-image: url("images/icon-ethereum.svg");
+    background-image: url("icon-ethereum.svg");
     position: relative;
     top: 0.1875rem;
     margin-right: 0.5rem;
@@ -185,7 +185,7 @@ hr {
     content: "";
     width: 17px;
     height: 17px;
-    background-image: url("images/icon-clock.svg");
+    background-image: url("icon-clock.svg");
     position: relative;
     top: 0.1475rem;
     margin-right: 0.375rem;
